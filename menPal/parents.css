@@ -1,0 +1,11 @@
+#header{
+text-align: center;
+}
+.align-left{
+position: relative;
+right: 140px;
+}
+#align-left{
+ position: relative;
+ right: 140px;
+}
