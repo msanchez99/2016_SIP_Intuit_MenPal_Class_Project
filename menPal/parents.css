@@ -1,4 +1,5 @@
-#header{
+.header{
+position: relative;
 text-align: center;
 }
 .align-left{
@@ -8,4 +9,8 @@ right: 140px;
 #align-left{
  position: relative;
  right: 140px;
+}
+.row{
+border-style: groove;
+
 }
