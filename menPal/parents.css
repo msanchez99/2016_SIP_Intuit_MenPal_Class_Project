@@ -35,3 +35,8 @@ background-color: transparent;
 .tips{
 font-size: 15px;
 }
+#black-border{
+border-style: solid;
+color: black;
+
+}
